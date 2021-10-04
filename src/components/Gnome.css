@@ -1,0 +1,20 @@
+.gnome-container {
+  border: 1px solid #a8e063;
+  border-radius: 0.2em;
+  text-align: center;
+}
+
+.gnome-container:hover {
+  box-shadow: 0 0 0 1px rgba(5, 226, 42, 0.911),
+    0 1px 3px 0 rgba(0, 245, 0, 0.685);
+}
+
+.gnome-container img {
+  width: 100%;
+  object-fit: contain;
+  max-height: 215px;
+}
+.gnome-data {
+  padding: 0 1rem;
+  text-align: initial;
+}

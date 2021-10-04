@@ -1,0 +1,10 @@
+.hair-color-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.hair-color-container section {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

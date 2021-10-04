@@ -1,0 +1,15 @@
+.board-title {
+  text-align: center;
+  font-size: 3rem;
+  background: linear-gradient(to right, #56ab2f, #f3fbea);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.board-footer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.board-btn {
+  margin-left: 2rem;
+}
